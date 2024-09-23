@@ -8,10 +8,7 @@ This project is a simple, clean, and responsive HTML and CSS template that can b
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🚀 Demo
 
