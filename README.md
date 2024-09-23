@@ -5,14 +5,11 @@ This project is a simple, clean, and responsive HTML and CSS template that can b
 
 ## 📋 Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 
 
-## 🚀 Demo
 
-Check out the live demo: [Live Preview](#) _(Add your link here)_
 
 ## 🎨 Features
 
